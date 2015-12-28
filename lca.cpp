@@ -18,3 +18,6 @@ node * lca(node * root, int v1,int v2)
   if (L && R) return root;
   return L ? L : R;
 }
+
+int main() {
+}
